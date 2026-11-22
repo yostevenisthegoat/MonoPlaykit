@@ -1,0 +1,6 @@
+{
+  "name": "Mono PlayKit",
+  "description": "100% free, offline-first monochromatic companion toolkit for physical games, board games, puzzles, and toys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
